@@ -1,0 +1,5 @@
+print("Exemplo de print com aspas duplas.")
+print('Exemplo de print com aspas simples.')
+print("Quando usar 'aspas simples' na frase, usar aspas duplas.")
+print('Nesse caso, as aspas simples não funcionarão, pois uma fechará a outra.')
+print('Para usar "aspas duplas" dentro, usar aspas simples fora.')
