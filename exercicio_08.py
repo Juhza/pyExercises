@@ -1,7 +1,7 @@
 caixinha = "{} {} {} {} {}"
 
 print(" TOP 5 CHAMPIONS:", caixinha.format('Lulu', 'Soraka', 'Sona', 'Karma', 'Rakan'))
-print("\n", caixinha.format('one', 'two', 'three', 'four', 'five'))
+print("\n", caixinha.format('one', 'two', 'three', 'four', 'ten'))
 print("\n", caixinha.format(True, False, True, True, False))
 print("\n", caixinha.format(caixinha, '\t', caixinha, '\t', caixinha))
 
